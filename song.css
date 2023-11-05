@@ -1,0 +1,41 @@
+body {
+  background-image: url(ao.webp);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.main1 {
+  background-attachment: fixed;
+  background-color: #ffffff99;
+
+  border-radius: 50px;
+  margin: 100px 10px 30px 500px;
+  padding: 5px 10px;
+  width: 500px;
+  height: 90px;
+  text-align: center;
+}
+
+#wrap {
+  width: 1192px;
+  height: 600px;
+  margin: 100px 150px;
+  background-color: #ffffff99;
+  background-attachment: fixed;
+  display: inline-flex;
+}
+.item {
+  width: 500px;
+  height: 800px;
+  padding: 15px 10px;
+  margin: 30px 500px 30px 490px;
+  background-color: #ffffff99;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.box {
+  margin: 50px 470px 10px 470px;
+  padding: 5px 10px;
+}

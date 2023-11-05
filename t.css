@@ -1,0 +1,15 @@
+body {
+  background-image: url(ao.webp);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.item {
+  width: 1380px;
+  height: 530px;
+  padding: 45px 15px;
+  margin: 30px 40px;
+  background-color: #ffffff99;
+  position: static;
+}

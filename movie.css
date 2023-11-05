@@ -1,0 +1,65 @@
+body {
+  background-image: url(ao.webp);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.main1 {
+  background-attachment: fixed;
+  background-color: #ffffff99;
+  border-radius: 50px;
+  margin: 100px 10px 30px 500px;
+  padding: 5px 10px;
+  width: 500px;
+  height: 90px;
+  text-align: center;
+}
+
+.main2 {
+  background-attachment: fixed;
+  background-color: #ffffff99;
+  border: 2px solid white;
+  border-radius: 50px;
+  margin: 60px 10px 60px 500px;
+  padding: 15px 10px;
+  width: 500px;
+  height: 90px;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+
+#wrap {
+  width: 1192px;
+  height: 600px;
+  margin: 100px 150px;
+  background-color: #ffffff99;
+  background-attachment: fixed;
+}
+.item {
+  width: 1380px;
+  height: 530px;
+  padding: 45px 15px;
+  margin: 30px 40px;
+  background-color: #ffffff99;
+  position: static;
+}
+
+.box {
+  width: 200px;
+  margin: 50px 470px 10px 470px;
+  padding: 5px 10px;
+}
+
+.textbox {
+  display: inline-block;
+  width: 180px;
+  background-attachment: fixed;
+  background-color: #ffffff99;
+  text-align: center;
+  padding: 20px 0px;
+  margin: 5px 155px;
+}
